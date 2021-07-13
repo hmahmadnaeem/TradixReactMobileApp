@@ -1,0 +1,6 @@
+module Pods_Tradix_TradixTests {
+  umbrella header "Pods-Tradix-TradixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
